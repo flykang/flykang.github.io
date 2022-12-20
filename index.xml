@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>/</link>
+        <description>Welcome to my world</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Tue, 20 Dec 2022 10:14:24 &#43;0800</lastBuildDate>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>My First Post</title>
+    <link>/posts/my-first-post/</link>
+    <pubDate>Tue, 20 Dec 2022 10:14:24 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/posts/my-first-post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
