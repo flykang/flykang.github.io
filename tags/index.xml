@@ -1,8 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
+        <title>Tags - Tag - Test</title>
         <link>/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
+        <description>Tags - Tag - Test</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
-            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><atom:link href="/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Wed, 21 Dec 2022 08:06:22 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>greedy</title>
+    <link>/tags/greedy/</link>
+    <pubDate>Wed, 21 Dec 2022 08:06:22 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/tags/greedy/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

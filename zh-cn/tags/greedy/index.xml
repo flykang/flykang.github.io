@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>greedy - 标签 - 我的全新 Hugo 网站</title>
+        <link>/zh-cn/tags/greedy/</link>
+        <description>greedy - 标签 - 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Wed, 21 Dec 2022 08:06:22 &#43;0800</lastBuildDate><atom:link href="/zh-cn/tags/greedy/" rel="self" type="application/rss+xml" /><item>
+    <title>Leetcode 1573</title>
+    <link>/zh-cn/posts/lc-1573/</link>
+    <pubDate>Wed, 21 Dec 2022 08:06:22 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/zh-cn/posts/lc-1573/</guid>
+    <description><![CDATA[<p>Leetcode 1753, 没有想到思路</p>]]></description>
+</item>
+</channel>
+</rss>

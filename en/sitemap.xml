@@ -2,6 +2,69 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>/categories/</loc><lastmod>2022-12-21T08:06:22&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/categories/"
+                    /></url><url>
+            <loc>/tags/greedy/</loc><lastmod>2022-12-21T08:06:22&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/tags/greedy/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/tags/greedy/"
+                    /></url><url>
+            <loc>/categories/leetcode/</loc><lastmod>2022-12-21T08:06:22&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/categories/leetcode/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/categories/leetcode/"
+                    /></url><url>
+            <loc>/posts/lc-1573/</loc><lastmod>2022-12-21T08:06:22&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/posts/lc-1573/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/posts/lc-1573/"
+                    /></url><url>
+            <loc>/posts/</loc><lastmod>2022-12-21T08:06:22&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/posts/"
+                    /></url><url>
+            <loc>/tags/</loc><lastmod>2022-12-21T08:06:22&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/tags/"
+                    /></url><url>
+            <loc>/</loc><lastmod>2022-12-21T08:06:22&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/"
+                    /></url><url>
             <loc>/posts/my-first-post/</loc><lastmod>2022-12-20T10:14:24&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -11,39 +74,12 @@
                     hreflang="en"
                     href="/posts/my-first-post/"
                     /></url><url>
-            <loc>/</loc><lastmod>2022-12-20T10:14:24&#43;08:00</lastmod><xhtml:link
+            <loc>/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="/zh-cn/"
+                        href="/zh-cn/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="/"
-                    /></url><url>
-            <loc>/posts/</loc><lastmod>2022-12-20T10:14:24&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/posts/"
-                    /></url><url>
-            <loc>/categories/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/categories/"
-                    /></url><url>
-            <loc>/tags/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/tags/"
+                    href="/about/"
                     /></url></urlset>

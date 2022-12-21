@@ -4,7 +4,15 @@
         <link>/zh-cn/posts/</link>
         <description>所有文章 | 我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
-            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Tue, 20 Dec 2022 10:14:24 &#43;0800</lastBuildDate><atom:link href="/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Wed, 21 Dec 2022 08:06:22 &#43;0800</lastBuildDate><atom:link href="/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Leetcode 1573</title>
+    <link>/zh-cn/posts/lc-1573/</link>
+    <pubDate>Wed, 21 Dec 2022 08:06:22 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/zh-cn/posts/lc-1573/</guid>
+    <description><![CDATA[<p>Leetcode 1753, 没有想到思路</p>]]></description>
+</item>
+<item>
     <title>My First Post</title>
     <link>/zh-cn/posts/my-first-post/</link>
     <pubDate>Tue, 20 Dec 2022 10:14:24 &#43;0800</pubDate>

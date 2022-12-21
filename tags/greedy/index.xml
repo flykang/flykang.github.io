@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>greedy - Tag - Test</title>
+        <link>/tags/greedy/</link>
+        <description>greedy - Tag - Test</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Wed, 21 Dec 2022 08:06:22 &#43;0800</lastBuildDate><atom:link href="/tags/greedy/" rel="self" type="application/rss+xml" /><item>
+    <title>leetcode 1573</title>
+    <link>/posts/lc-1573/</link>
+    <pubDate>Wed, 21 Dec 2022 08:06:22 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/posts/lc-1573/</guid>
+    <description><![CDATA[<p>Leetcode 1753, couldn&rsquo;t get the solution</p>]]></description>
+</item>
+</channel>
+</rss>
