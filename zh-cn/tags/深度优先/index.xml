@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>深度优先 - 标签 - 我的全新 Hugo 网站</title>
+        <link>/zh-cn/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88/</link>
+        <description>深度优先 - 标签 - 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Thu, 22 Dec 2022 10:53:15 &#43;0800</lastBuildDate><atom:link href="/zh-cn/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88/" rel="self" type="application/rss+xml" /><item>
+    <title>Leetcode 1799</title>
+    <link>/zh-cn/posts/lc-1799/</link>
+    <pubDate>Thu, 22 Dec 2022 10:53:15 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/zh-cn/posts/lc-1799/</guid>
+    <description><![CDATA[<p>Leetcode 1799, couldn&rsquo;t get the solution</p>]]></description>
+</item>
+</channel>
+</rss>
