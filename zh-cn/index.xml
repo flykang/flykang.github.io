@@ -4,9 +4,17 @@
         <link>/zh-cn/</link>
         <description>Welcome to my world</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
-            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Thu, 22 Dec 2022 10:53:15 &#43;0800</lastBuildDate>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Fri, 23 Dec 2022 17:06:22 &#43;0800</lastBuildDate>
             <atom:link href="/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Leetcode 897</title>
+    <link>/zh-cn/posts/lc-897/</link>
+    <pubDate>Fri, 23 Dec 2022 17:06:22 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/zh-cn/posts/lc-897/</guid>
+    <description><![CDATA[<p>Leetcode 897, 有思路，但是这一题要考虑，转换成链表要记录尾节点，然后如果没有头节点要加一个dummy 节点。</p>]]></description>
+</item>
+<item>
     <title>Leetcode 1799</title>
     <link>/zh-cn/posts/lc-1799/</link>
     <pubDate>Thu, 22 Dec 2022 10:53:15 &#43;0800</pubDate>

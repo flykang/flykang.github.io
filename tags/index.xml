@@ -4,7 +4,23 @@
         <link>/tags/</link>
         <description>Tags - Tag - Test</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
-            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Thu, 22 Dec 2022 10:53:15 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Fri, 23 Dec 2022 17:06:22 &#43;0800</lastBuildDate><atom:link href="/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Binary Search</title>
+    <link>/tags/binary-search/</link>
+    <pubDate>Fri, 23 Dec 2022 17:06:22 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/tags/binary-search/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>dfs</title>
+    <link>/tags/dfs/</link>
+    <pubDate>Fri, 23 Dec 2022 17:06:22 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/tags/dfs/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>深度优先</title>
     <link>/tags/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88/</link>
     <pubDate>Thu, 22 Dec 2022 10:53:15 &#43;0800</pubDate>
