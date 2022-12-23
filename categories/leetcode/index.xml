@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>leetcode - Category - Test</title>
+        <title>leetcode - Category - Hello World</title>
         <link>/categories/leetcode/</link>
-        <description>leetcode - Category - Test</description>
+        <description>leetcode - Category - Hello World</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
             <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Fri, 23 Dec 2022 17:06:22 &#43;0800</lastBuildDate><atom:link href="/categories/leetcode/" rel="self" type="application/rss+xml" /><item>
     <title>leetcode 897</title>
