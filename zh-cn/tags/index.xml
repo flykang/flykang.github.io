@@ -4,10 +4,18 @@
         <link>/zh-cn/tags/</link>
         <description>Tags - 标签 - 我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Kang.zhang@intel.com (Zhang Kang)</managingEditor>
-            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Fri, 23 Dec 2022 17:06:22 &#43;0800</lastBuildDate><atom:link href="/zh-cn/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Kang.zhang@intel.com (Zhang Kang)</webMaster><lastBuildDate>Tue, 03 Jan 2023 08:23:16 &#43;0800</lastBuildDate><atom:link href="/zh-cn/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>动态规划</title>
+    <link>/zh-cn/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</link>
+    <pubDate>Tue, 03 Jan 2023 08:23:16 &#43;0800</pubDate>
+    <author>Zhang Kang</author>
+    <guid>/zh-cn/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>贪心</title>
     <link>/zh-cn/tags/%E8%B4%AA%E5%BF%83/</link>
-    <pubDate>Fri, 23 Dec 2022 17:06:22 &#43;0800</pubDate>
+    <pubDate>Tue, 03 Jan 2023 08:23:16 &#43;0800</pubDate>
     <author>Zhang Kang</author>
     <guid>/zh-cn/tags/%E8%B4%AA%E5%BF%83/</guid>
     <description><![CDATA[]]></description>
